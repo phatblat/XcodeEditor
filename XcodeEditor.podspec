@@ -8,7 +8,7 @@
 #
 Pod::Spec.new do |s|
   s.name         = "XcodeEditor"
-  s.version      = "1.3"
+  s.version      = "1.3+"
   s.summary      = "An API for manipulating Xcode project files."
   # s.description  = <<-DESC
   #                   An optional longer description of XcodeEditor
@@ -48,7 +48,7 @@ Pod::Spec.new do |s|
 
   # Specify the location from where the source should be retrieved.
   #
-  s.source       = { :git => "https://github.com/jasperblues/XcodeEditor.git", :tag => "1.3" }
+  s.source       = { :git => "https://github.com/phatblat/XcodeEditor.git", :branch => "pod-dev" }
 
   # If this Pod runs only on iOS or OS X, then specify the platform and
   # the deployment target.
