@@ -8,7 +8,7 @@
 #
 Pod::Spec.new do |s|
   s.name         = "XcodeEditor"
-  s.version      = "1.3+"
+  s.version      = "1.3"
   s.summary      = "An API for manipulating Xcode project files."
   # s.description  = <<-DESC
   #                   An optional longer description of XcodeEditor
