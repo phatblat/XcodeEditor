@@ -54,7 +54,7 @@ Pod::Spec.new do |s|
   # the deployment target.
   #
   # s.platform     = :ios, '5.0'
-  # s.platform     = :ios
+  s.platform     = :macosx
 
   # ――― MULTI-PLATFORM VALUES ――――――――――――――――――――――――――――――――――――――――――――――――― #
 
